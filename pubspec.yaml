@@ -1,0 +1,7 @@
+name: car_rental_system
+description: Model domain sistem rental mobil dengan Dart murni (tanpa Flutter).
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
